@@ -13,4 +13,7 @@ python3 down.py -l m3u8_url
 
 ## 参考:
 
-``参考：https://blog.csdn.net/daiyu__zz/article/details/84966834``
+```
+参考：https://blog.csdn.net/daiyu__zz/article/details/84966834
+https://blog.csdn.net/a33445621/article/details/80377424
+```
