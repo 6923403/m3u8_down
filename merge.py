@@ -1,7 +1,6 @@
 import os
 
 if __name__ == '__main__':
-    #参考：https://blog.csdn.net/daiyu__zz/article/details/84966834
     ts_path = "./"
     # 读取ts文件夹下所有的ts文件
     path_list = os.listdir(ts_path)
