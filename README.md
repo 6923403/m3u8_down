@@ -20,4 +20,5 @@ python3 down.py -l m3u8_url
 ```
 https://blog.csdn.net/daiyu__zz/article/details/84966834
 https://blog.csdn.net/a33445621/article/details/80377424
+https://blog.csdn.net/swain_yj/article/details/78412295
 ```
